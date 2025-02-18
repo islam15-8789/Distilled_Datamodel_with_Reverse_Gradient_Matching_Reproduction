@@ -17,6 +17,7 @@ eggs/
 lib/
 lib64/
 parts/
+RCP_DDM/
 sdist/
 var/
 wheels/
