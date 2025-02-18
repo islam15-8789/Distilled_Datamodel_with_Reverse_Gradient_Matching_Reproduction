@@ -193,5 +193,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out via:
 
-- Email: arniislam15-8789@gmail.com
+- Email: arniislam777@gmail.com
 - GitHub: [islam15-8789](https://github.com/islam15-8789)
