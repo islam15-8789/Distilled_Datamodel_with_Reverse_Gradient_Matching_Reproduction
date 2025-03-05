@@ -2,7 +2,7 @@
 
 # Overview of the Paper
 
-Distilled Data Model (DDM) is introduced in this paper. It discovers how training data affects a model that has already been trained. DDM uses a tiny synthetic collection of samples (synset), instead of expensive retraining. In the offline phase, the synset is created via reverse gradient matching. During the online phase, the synset facilitates the rapid approximation of the impact of data removal on the model. This provides an attribution matrix that shows how each data cluster contributed to the predictions. Experiments demonstrate that DDM performs as well as retraining but is considerably faster. The framework of the proposed distilled datamodel from the paper.
+Distilled Data Model (DDM) is introduced in this [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ye_Distilled_Datamodel_with_Reverse_Gradient_Matching_CVPR_2024_paper.html). It discovers how training data affects a model that has already been trained. DDM uses a tiny synthetic collection of samples (synset), instead of expensive retraining. In the offline phase, the synset is created via reverse gradient matching. During the online phase, the synset facilitates the rapid approximation of the impact of data removal on the model. This provides an attribution matrix that shows how each data cluster contributed to the predictions. Experiments demonstrate that DDM performs as well as retraining but is considerably faster. The framework of the proposed distilled datamodel from the paper.
 
 ![Proposed DDM Framework](results/figures/proposed_DDM_Framwork.png)
 
